@@ -19,8 +19,8 @@ If you're interested in learning more about me and my background, please see my 
 ## [Resume](docs/john_george_resume.pdf)
 30+ years of work history and interesting projects.
 
-#### [Writing](docs/writing.md)
-Sample content I've created throughout my professional writing career. 
+## [Writing Samples](docs/writing_samples.md)
+Sample content I've created throughout my professional technical writing career. 
 
 #### [Products Supported](docs/products_supported.md)
 List of products supported by my Digital Solutions technical writing team.

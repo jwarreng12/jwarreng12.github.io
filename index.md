@@ -22,6 +22,6 @@ If you're interested in learning more about me and my background, please see my 
 ## [Technical Writing Samples](docs/writing_samples.md)
 Sample content I've created throughout my professional technical writing career. 
 
-## [Social Media links](docs/social.md)
+## [Social Media](docs/social.md)
 Take a look at my activity around the web or check out what I'm learning.
 

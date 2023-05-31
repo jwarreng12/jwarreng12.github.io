@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# Adam Pugh's Portfolio
+# John George's Technical Writing Portfolio
 ## Technical Writer | Leader | Designer
 
 My name is Adam, and I am a leader, writer, and curious individual.

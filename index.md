@@ -2,29 +2,19 @@
 layout: default
 ---
 # John George's Technical Writing Portfolio
-## Technical Writer | Leader | Designer
+## Technical Writer
 
-My name is Adam, and I am a leader, writer, and curious individual.
+My name is John, and I'm a self-motivated and enthusiastic technical writer with a diverse background with experience in enterprise software, SaaS, cloud-based integrated platforms (iPaas), mainframe, commercial, payroll, HR, security, and telecommunications.
 
-*You might be my kind of company if you:*
- - Hire independent and kind leaders.
- - Believe that documentation is essential for all users.
- - Are remote-first and properly support distributed employees financially and technologically.
- - Compensate based on experience, not location.
- - Support ongoing learning.
- - Focus on adding value to the world.
+I'm a proven leader, mentor, critical thinker, problem solver, and decision maker. I'm known for "going above and beyond" and "getting the job done." I'm able to step in, quickly analyze and understand challenges and pain points, and add value to drive customer success. I consistently experiment with new and innovative ways to improve the learning experience for users.
 
-*I might be your kind of leader if you:*
- - Seek to hire kind and empathetic people.
- - Want to build a positive team culture.
- - Need to start a remote-first writing team.
- - Appreciate autonomous and helpful work.
+I have a successful track record in technical writing, editing, leadership, mentorship, project management, execution, and delivery while meeting challenging deadlines. Results include improved customer success and satisfaction, reduced support costs, and improved product perception.
 
-If you think we are a good match I’d love to hear from you.
+If you think my background and experience would be a good match for your organization, I’d love to hear from you.
 
-#### More about me
-Results-driven Documentation Manager with over 12 years of experience leading and managing teams ranging from 4 to 14 professionals. Skilled in developing and implementing content strategies, documentation analytics, and data-driven process improvements. Proficient in using Tableau, Power BI, and Excel Power Query for data analysis. Experienced in content management systems such as Tridion Docs, SharePoint, and Wiki, as well as HTML, Markdown, CSS, and XML markup languages for web-based documentation. Committed to fostering compassionate and effective leadership by leading by example and valuing both kindness and high-quality work.
-I'm focused on developing compassionate and kind leaders. To do this well we must: be kind, and do good work. That is my leadership philosophy.
+## More About Me
+
+If you're interested in learning more about me and my background, please see my [LinkedIn profile]([url](https://www.linkedin.com/in/john-w-george/).
 
 #### [Long Resume](docs/full_resume.md)
 20 years of work history and interesting projects.

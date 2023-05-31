@@ -34,7 +34,7 @@ defaults:
 - scope:
     path: ''
   values:
-    image: "/images/John_Avatar.PNG"
+    image: "/images/John_Avatar.png"
 future: true
 plugins:
 - jekyll-avatar

@@ -2,7 +2,7 @@
 layout: default
 ---
 # John George's Technical Writing Portfolio
-## Technical Writer
+## Technical Writer | Editor | Leader
 
 My name is John, and I'm a self-motivated and enthusiastic technical writer with a diverse background with experience in enterprise software, SaaS, cloud-based integrated platforms (iPaas), mainframe, commercial, payroll, HR, security, and telecommunications.
 

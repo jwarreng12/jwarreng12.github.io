@@ -1,1 +1,1 @@
-[PDF](docs/John W. George Resume.pdf)
+[PDF](/docs/John W. George Resume.pdf)

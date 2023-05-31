@@ -3,7 +3,7 @@ version: 1.0
 name: John W. George
 description: Technical Writing Portfolio
 url: https://github.com/jwarreng12/jwarreng12.github.io
-repository: https://github.com/jwarreng12/jwarreng12.github.io
+repository: https://github.com/jwarreng12
 timezone: America/Pennsylvania
 logo: "/images/John_Avatar.png"
 collections:

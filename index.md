@@ -14,7 +14,7 @@ If you think my background and experience would be a good match for your organiz
 
 ## More About Me
 
-If you're interested in learning more about me and my background, please see my [LinkedIn profile]([url](https://www.linkedin.com/in/john-w-george/)).
+If you're interested in learning more about me and my background, please see my [LinkedIn profile](https://www.linkedin.com/in/john-w-george/).
 
 #### [Long Resume](docs/full_resume.md)
 20 years of work history and interesting projects.

@@ -10,7 +10,7 @@ I'm a proven leader, mentor, critical thinker, problem solver, and decision make
 
 I have a successful track record in technical writing, editing, leadership, mentorship, project management, execution, and delivery while meeting challenging deadlines. Results include improved customer success and satisfaction, reduced support costs, and improved product perception.
 
-If you think my background and experience would be a good match for your organization, I’d love to hear from you.
+If you think my background and experience would be a good match for your organization, I’d love to [hear from you](mailto: johnwarreng12@gmail.com).
 
 ## More About Me
 

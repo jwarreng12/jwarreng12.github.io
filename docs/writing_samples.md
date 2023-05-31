@@ -6,12 +6,12 @@ As a Senior Technical Writer, I wrote engineering documentation for application 
 Here are a few samples of documentation I wrote at Boomi:
 
 ### Tutorial: Building a custom connector
-I wrote the [Tutorial: Building a custom connector](https://help.boomi.com/bundle/connectors/page/int-Building_your_own_custom_connector.html) to help developers build a custom connector using the Boomi Connector Software Development Kit (SDK). 
+I wrote the <a href="https://help.boomi.com/bundle/connectors/page/int-Building_your_own_custom_connector.html" target="_blank">Tutorial: Building a custom connector</a> to help developers build a custom connector using the Boomi Connector Software Development Kit (SDK).
 
 ### Amazon S3 REST Connector
-I wrote the [Amazon S3 REST Connector documentation](https://help.boomi.com/bundle/connectors/page/r-atm-Amazon_S3_REST_connector.html) to explain how to use the Amazon S3 REST connector to simply and securely store and retrieve any amount of data from anywhere on the Web. You can use a Boomi Integration process to upload, store, retrieve, filter, and delete object data from an Amazon S3 bucket.
+I wrote the <a href="https://help.boomi.com/bundle/connectors/page/r-atm-Amazon_S3_REST_connector.html" target="_blank">Amazon S3 REST Connector documentation</a> to explain how to use the Amazon S3 REST connector to simply and securely store and retrieve any amount of data from anywhere on the Web. You can use a Boomi Integration process to upload, store, retrieve, filter, and delete object data from an Amazon S3 bucket.
 
 ### Tutorial: Building your first Integration process
-I wrote the [Tutorial: Building your first Integration process](https://help.boomi.com/bundle/integration/page/int-First_Boomi_Integration_process.html) to help Boomi Users build their first Integration process and understand the power and simplicity of the Boomi Integration Platform. 
+I wrote the <a href="https://help.boomi.com/bundle/integration/page/int-First_Boomi_Integration_process.html" target="_blank">Tutorial: Building your first Integration process</a> to help Boomi Users and Engineers build their first Integration process and understand the power and simplicity of the Boomi Integration Platform. 
 
 [Back to Home](/index.md)

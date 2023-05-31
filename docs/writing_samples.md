@@ -14,4 +14,4 @@ I wrote the <a href="https://help.boomi.com/bundle/connectors/page/r-atm-Amazon_
 ### Tutorial: Building your first Integration process
 I wrote the <a href="https://help.boomi.com/bundle/integration/page/int-First_Boomi_Integration_process.html" target="_blank">Tutorial: Building your first Integration process</a> to help Boomi Users and Engineers build their first Integration process and understand the power and simplicity of the Boomi Integration Platform. 
 
-[Back Home](/index.md/)
+[Back Home](index.md)

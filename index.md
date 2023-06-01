@@ -17,7 +17,7 @@ If you think my background and experience would be a good match for your organiz
 If you're interested in learning more about me and my background, please see my <a href="https://www.linkedin.com/in/john-w-george/" target="_blank">LinkedIn profile</a>.
 
 ## [Resume](docs/john_george_resume.pdf)
-30+ years of work history and interesting projects.
+30+ years of technical writing work history and interesting projects.
 
 ## [Technical Writing Samples](docs/writing_samples.md)
 Sample content I've created throughout my professional technical writing career. 

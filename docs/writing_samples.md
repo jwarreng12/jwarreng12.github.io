@@ -5,7 +5,8 @@ As a Documentation Engineer, I write documentation for Meta's engineers building
 
 Here are a few samples of content I created at Meta:
 
-### EP Documentation Center
+### EP Doc Center
+![EP Doc Center](/images/EP_Doc_Center.jpg)
 Placeholder for image of EP Documentation Center
 Placeholder for description of EP Documentation Center
 

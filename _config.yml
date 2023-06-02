@@ -3,7 +3,7 @@ description: Technical Writing Portfolio
 url: https://github.com/jwarreng12/jwarreng12.github.io
 repository: https://github.com/jwarreng12/github.io
 timezone: America/Pennsylvania
-logo: "/images/john_profile_pic.png"
+logo: "/images/john_profile_picture.png"
 collections:
   docs:
     permalink: "/:collection/:path/"
@@ -33,7 +33,7 @@ defaults:
 - scope:
     path: ''
   values:
-    image: "/images/john_profile_pic.png"
+    image: "/images/john_profile_picture.png"
 future: true
 plugins:
 - jekyll-avatar
